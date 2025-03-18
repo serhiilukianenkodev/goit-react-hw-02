@@ -1,0 +1,10 @@
+.feedbackList {
+  list-style: none;
+  text-align: left;
+}
+
+.feedbackItem {
+  text-transform: capitalize;
+  font-size: 18px;
+  font-weight: 700;
+}

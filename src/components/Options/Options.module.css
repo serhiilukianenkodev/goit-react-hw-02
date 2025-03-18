@@ -1,0 +1,10 @@
+.optionsList {
+  list-style: none;
+  display: flex;
+  gap: 12px;
+}
+
+.optionItem {
+  text-transform: capitalize;
+  border: 1px solid lightslategray;
+}
